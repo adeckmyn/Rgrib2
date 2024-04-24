@@ -1,0 +1,391 @@
+#Provided by ALADIN group (NMA-Romania)
+#Surface pressure
+'Pa'= {
+         table2Version = 247 ;
+         indicatorOfParameter = 1 ;
+        }
+#Mean sea level pressure
+'Pa'= {
+         table2Version = 247 ;
+         indicatorOfParameter = 2 ;
+        }
+#Potential vorticity
+'K m**2 kg**-1 s**-1' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 4 ;
+        }
+#Geopotential
+'m**2 s**-2' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 6 ;
+        }
+#Isoterm - Temp. termometrului umed
+'m' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 8 ;
+        }
+#Isoterm -temperature height
+'m' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 9 ;
+        }
+#Temperature
+'K' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 11 ;
+        }
+#Equivalent potential temperature
+'K' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 12 ;
+        }
+#Potential temperature
+'K' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 13 ;
+        }
+#Pseudo-adiabatic potential temperature
+'K' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 14 ;
+        }
+#2m maximum temperature
+'K' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 15 ;
+        }
+#2m minimum temperature
+'K' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 16;
+       }
+#2m minimum temperature night
+'K' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 17 ;
+        }
+#2m maximum temperature day
+'K' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 18 ;
+        }
+#Simulated Radar Reflectivity
+'dBZ' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 31 ;
+        }
+#u wind component
+'m s**-1' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 33 ;
+        }
+#v wind component
+'m s**-1' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 34 ;
+        }
+#Turbulent kinetic wind energy
+'Wm**-2' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 37 ;
+        }
+#Vertical velocity
+'ms**-1' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 39 ;
+        }
+#Absolute vorticity
+'K m**2 kg**-1 s**-1' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 41 ;
+        }
+#Vorticity
+'K m**2 kg**-1 s**-1' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 43 ;
+        }
+#Divergence
+'s**-1' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 44 ;
+        }
+#Specific humidity
+'kg kg**-1' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 51 ;
+        }
+#Relative humidity 
+'%' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 52 ;
+       }
+#Total precipitation fall
+'kg**-1m**-2' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 61 ;
+        }
+#Large scale rainfall
+'kg**-1m**-2' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 62 ;
+        }
+#Convective  rainfall
+'kg**-1m**-2' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 63 ;
+        }
+#Total Cloud Cover
+'(0 - 1)' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 71 ;
+        }
+#Convective Cloud Cover
+'(0 - 1)' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 72 ;
+        }
+#Low Cloud Cover
+'(0 - 1)' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 73 ;
+        }
+#Medium Cloud Cover
+'(0 - 1)' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 74 ;
+        }
+#High Cloud Cover
+'(0 - 1)' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 75 ;
+        }
+#Convective snowfall
+'kg**-1m**-2' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 78 ;
+        }
+#Large scale snowfall
+'kg**-1m**-2' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 79 ;
+        }
+#Land-sea mask
+'(0 - 1)' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 81 ;
+        }
+#PVU vorticity
+'K m**2 kg**-1 s**-1' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 90 ;
+        }
+#PVU theta equivalent
+'K' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 93 ;
+        }
+#wind speed
+'m s**-1' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 101 ;
+        }
+#wind direction
+'m s**-1' =  {
+         table2Version = 247 ;
+         indicatorOfParameter = 102 ;
+        }
+#Surface direct solar flux
+'' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 103 ;
+        }
+#Surface Solar radiation flux
+'J*kg**-1*m**-2' = {
+	 table2Version = 247 ;
+	 indicatorOfParameter = 111 ;
+	}
+#Surface Thermal radiation flux
+'J*kg**-1*m**-2' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 112 ;
+        }
+#Top Solar radiation flux
+'J m**-2' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 113 ;
+        }
+#Top Thermal radiation flux
+'J m**-2' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 114 ;
+        }
+#Sensible heat flux
+'J*kg**-1*m**-2' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 122 ;
+        }
+#Latent heat flux
+'J kg**-1 m**-2' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 123 ;
+       }
+#Evaporation latent heat flux
+'J kg**-1 m**-2' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 124 ;
+       }
+#Convective inhibition energy
+'J kg**-1' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 141 ;
+       }
+#Lifting condensation level
+'' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 142 ;
+       }
+#Convective equilibrium level
+'mgp' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 143 ;
+       }
+#Convective available potential energy (instantaneous diagnostic)
+'J*kg**-1' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 154 ;
+       }
+#Convective precipitation
+'kg**-1m**-2' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 156 ;
+       }
+#Large scale precipitation
+'kg**-1m**-2' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 157 ;
+       }
+#Convective available potential energy (instantaneous diagnostic - fpos CAPE.POS.F00)
+'J*kg**-1' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 160 ;
+       }
+#Convective available potential energy (fpos - fp5_cape)
+'J*kg**-1' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 161 ;
+       }
+#U-component of 10m  wind gust
+'' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 163 ;
+       }
+#V-component of 10m  wind gust
+'ms**-1' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 164 ;
+    }
+#PBL moisture convergence
+'kg/kq*m**-2' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 165 ;
+    }
+#Surface moisture convergence
+'' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 166 ;
+    }
+#Instantaneous moisture convergence
+'kg/m**-2' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 167 ;
+    }
+#PBL height
+'' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 168 ;
+    }
+#Tropopause pressure
+'' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 171 ;
+    }
+#Tropopause temperature
+'' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 172 ;
+    }
+#Jet level pressure
+'' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 173 ;
+    }
+#Jet level u wind component
+'' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 174 ;
+    }
+#Jet level v wind component
+'' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 175 ;
+    }
+#Z level equivalent potential temperature
+'' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 184 ;
+    }
+#Z level vorticity
+'' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 187 ;
+    }
+#Z level turbulent kinetic energy
+'' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 189 ;
+    }
+#Z level virtual  temperature
+'' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 190 ;
+    }
+#Z level vertical velocity
+'' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 191 ;
+    }
+#Downward thermal radiation flux
+'J*kg**-1m**-2' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 104 ;
+    }
+#Downward solar radiation flux
+'J*kg**-1m**-2' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 105 ;
+    }
+#K instability index
+'degree' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 241 ;
+        }
+#TT instability index
+'degree' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 242 ;
+        }
+#VT instability index
+'degree' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 243 ;
+        }
+#CT instability index
+'degree' = {
+         table2Version = 247 ;
+         indicatorOfParameter = 244 ;
+        }
+#Column total water vapour
+'' = {
+     table2Version = 247 ;
+     indicatorOfParameter = 247 ;
+    }
